@@ -1,0 +1,65 @@
+/* ====== ZTF Textbook Style ====== */
+body {
+  background-color: #0F1112;
+  color: #E8DDC9;
+  font-family: "Poppins", "Inter", sans-serif;
+  line-height: 1.7;
+  max-width: 850px;
+  margin: auto;
+  padding: 3rem 1rem;
+}
+
+h1, h2, h3 {
+  color: #BC8AF6;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 2.2rem;
+}
+
+h1 {
+  text-align: center;
+  color: #FFD166;
+  font-size: 2.4rem;
+}
+
+a {
+  color: #FBDD09;
+  text-decoration: none;
+}
+
+strong {
+  color: #FFD166;
+}
+
+em {
+  color: #BC8AF6;
+}
+
+blockquote {
+  border-left: 3px solid #FFD166;
+  margin: 1.5em 0;
+  padding-left: 1em;
+  color: #D4CFC1;
+  font-style: italic;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #FFD166;
+  margin: 2rem 0;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 12px;
+}
+
+code {
+  background-color: #222;
+  padding: 0.2em 0.4em;
+  border-radius: 5px;
+  font-family: "Fira Code", monospace;
+}
+
+li {
+  margin: 0.6em 0;
+}
